@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">HomeRehab</string>
+
+    <string name="title_paired_devices">Paired Devices</string>
+    <string name="enable_sensors_done">Done</string>
+    <string name="configure_device">Configure Shimmer</string>
+    <string name="title_other_devices">Other Available Devices</string>
+    <string name="button_scan">SCAN FOR DEVICES</string>
+    <string name="title_activity_streaming_shimmer">Choose your Shimmer</string>
+    <string name="title_activity_shimmer_choosed">ShimmerChoosed</string>
+    <string name="title_activity_list_view_adapter">ListViewAdapter</string>
+    <string name="title_activity_login">Welcome</string>
+
+    <string name="start_menu">Start streaming</string>
+    <string name="stop_menu">Stop streaming</string>
+    <string name="help">Help</string>
+    <string name="title_activity_two_buttons">TwoButtonsActivity</string>
+    <string name="welcome_text">Welcome</string>
+    <string name="user_id">Insert your User ID</string>
+    <string name="btntxt_log_in">Log in</string>
+    <string name="check_login">Remember me</string>
+    <string name="activ_choose">Choose your Shimmer</string>
+    <string name="waiting">Waiting...</string>
+
+    <string name="login_link">http://backboomerang.herokuapp.com/login?id=</string>
+
+    <string name="txt_alert_failed">User ID wrong</string>
+    <string name="txt_alert_error">Error from the server, try again</string>
+    <string name="txt_alert_empty">Insert an User ID</string>
+
+    <string name="menu_logout">logout menu</string>
+</resources>

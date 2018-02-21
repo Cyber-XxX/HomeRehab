@@ -1,0 +1,2 @@
+include ':app', ':androidshimmerdriver'
+project(':androidshimmerdriver').projectDir = new File('androidshimmerdriver')
